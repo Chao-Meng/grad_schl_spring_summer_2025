@@ -4,7 +4,7 @@
 
 
 ### Generating Station
-! (../20250506203622.png)
+! (../Images/20250506203622.png)
 
 #### Types of generation
 - Nuclear Power
