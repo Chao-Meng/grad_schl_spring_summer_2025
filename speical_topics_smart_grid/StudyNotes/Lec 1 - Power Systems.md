@@ -1,6 +1,6 @@
 ### Generation, Transmission & Distribution
 
-!(../Images/Pasted%20image%2020250506203622.png)
+!(../Images/2020250506203622.png)
 
 
 ### Generating Station
