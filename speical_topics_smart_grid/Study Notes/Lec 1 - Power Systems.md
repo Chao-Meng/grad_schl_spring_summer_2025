@@ -1,6 +1,7 @@
 ### Generation, Transmission & Distribution
 
-![Pasted image](../Z ALL Images/Pasted image 20250506203622.png)
+![](../Z%20ALL%20Images/Pasted%20image%2020250506203621.png)
+
 
 ### Generating Station
 ![[Pasted image 20250506203622.png]]
